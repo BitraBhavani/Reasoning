@@ -110,9 +110,7 @@ holiday?**
 <br>(a) 0 
 <br>(b) 1 
 <br>(c) 2 
-<br>(d) cannot be 
-
-determined 
+<br>(d) cannot be determined 
 
 **19. If today is Sunday, then what will be the 100th day from today?** 
 <br>(a) Tuesday 
@@ -274,16 +272,16 @@ determined
 <br>(d) 74 
 
 **3. What is the angle between the two hands of clock when the clock shows 5:35 p.m?** 
-<br>(a) 42.5o
-<br>(b) 400
-<br>(c) 450
-<br>(d) 460
+<br>(a) 42.5°
+<br>(b) 40°
+<br>(c) 45°
+<br>(d) 46°
 
 **4. What is the angle between the two hand s of a clock when the time shown by the clock is 8:40 p.m?** 
-<br>(a) 5o
-<br>(b) 20o
-<br>(c) 10o
-<br>(d) 15o
+<br>(a) 5°
+<br>(b) 20°
+<br>(c) 10°
+<br>(d) 15°
 
 **5. At what time between 5 and 6 o’clock, will the hand s of a clock make an angle of 50 o with each other?** 
 <br>(a) 36 4/11 minutes past 5 
@@ -310,10 +308,10 @@ determined
 <br>(d) None of these 
 
 **9. By how many degrees will the minute hand move in the same time in which the hour hand moves by 24o ?** 
-<br>(a) 220o
-<br>(b) 260o
-<br>(c) 280o
-<br>(d) 288o
+<br>(a) 220°
+<br>(b) 260°
+<br>(c) 280°
+<br>(d) 288°
 
 **10. A watch which gains time uniformly was observed to be 7 minutes slow at 4:00 am. On a Sunday. On the subsequent Wednesday at 12:00 noon, the watch was 9 minutes fast. When did the watch show the correct time?** 
 <br>(a) 1:00 AM on Sunday 
@@ -352,10 +350,10 @@ determined
 <br>(d) 5 o’ clock 
 
 **16. What is the angle between the two hands of a clock when the time shown by the clock is 7:10 a.m?** 
-<br>(a) 122o
-<br>(b) 120o
-<br>(c) 155o
-<br>(d) 150o
+<br>(a) 122°
+<br>(b) 120°
+<br>(c) 155°
+<br>(d) 150°
 
 **17. If the time shown by the reflection of a wall clock in a mirror is 8:53 minutes, then what is the actual time shown by the clock?** 
 <br>(a) 3:07 
@@ -371,22 +369,22 @@ determined
 
 **19. By how many degrees does the hour hand lag behind the mi
 nute hand a span of 12 minutes, if initially they are at the same position?** 
-<br>(a) 64o
-<br>(b) 66o
-<br>(c) 60o
-<br>(d) 78o
+<br>(a) 64°
+<br>(b) 66°
+<br>(c) 60°
+<br>(d) 78°
 
 **20. In the time in which the second hand covers 16200 degrees, how many degrees does the hour hand move?**
-<br>(a) 2 ¼ o
-<br>(b) 4o
-<br>(c) 2o
-<br>(d) 80
+<br>(a) 2 ¼ °
+<br>(b) 4°
+<br>(c) 2°
+<br>(d) 8°
 
 **21. How many degrees will the minute hand move, in the same time in which the second hand moves 540o ?**
-<br>(a) 6o
-<br>(b) 3o
-<br>(c) 12o
-<br>(d) 9o
+<br>(a) 6°
+<br>(b) 3°
+<br>(c) 12°
+<br>(d) 9°
 
 **22. A watch which loses time uniformly was observed to be 5 minutes fast at 8:00 p.m. on Thursday. It was noticed to be 7 minutes slow at 8:00 a.m. on the subsequent Monday. When did the watch show the correct time?**
 <br>(a) 7 AM on Saturday 
@@ -456,61 +454,61 @@ nute hand a span of 12 minutes, if initially they are at the same position?**
 <br>(d) 180° 
 
 **33. A clock is started at noon. By 10 minutes past 5, the hour hand has turned through 
-(a) 145° 
+<br>(a) 145° 
 <br>(b) 152° 
 <br>(c) 155° 
 <br>(d) 140° 
 
-**34.  At what time between 7 and 8 o'clock will the hands of a clock be in the same straight line but not together? 
-(a) 5(1/11) minutes past 7 
+**34.  At what time between 7 and 8 o'clock will the hands of a clock be in the same straight line but not together?** 
+<br>(a) 5(1/11) minutes past 7 
 <br>(b) 5 minutes past 7 
 <br>(c) 5(3/11) minutes past 7 
+<br>(d) 5(5/11) minutes past 7 
 
-(d) 5(5/11) minutes past 7 
-35. At what time between 5.30 and 6 will the hands of a clock be at right angles? 
-(a) 44(7/11) minutes past 5 
+**35. At what time between 5.30 and 6 will the hands of a clock be at right angles?** 
+<br>(a) 44(7/11) minutes past 5 
 <br>(b) 43 minutes past 5 
 <br>(c) 43(7/11) minutes past 5 
 <br>(d) 44 minutes past 5 
 
-**36.  An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon? 
-(a) 144° 
+**36.  An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?**
+<br>(a) 144° 
 <br>(b) 150° 
 <br>(c) 168° 
 <br>(d) 180° 
 
-**37. The reflex angle between the hands of a clock at 10.25 is: 
-(a) 180° 
+**37. The reflex angle between the hands of a clock at 10.25 is:** 
+<br>(a) 180° 
 <br>(b) 192(1/2)° 
 <br>(c) 195° 
 <br>(d) 192(1/2)° 
 
-**38. A clock is started at noon. By 10 minutes past 5, the hour hand has turned through: 
-(a) 145° 
+**38. A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:** 
+<br>(a) 145° 
 <br>(b) 150° 
 <br>(c) 155° 
 <br>(d) 160° 
 
-**39. A watch which gains 5 seconds in 3 minutes was set right at 7 a.m. In the afternoon of the same day, when the watch indicated quarter past 4 o'clock, the true time is: 
-(a) 5 PM 
+**39. A watch which gains 5 seconds in 3 minutes was set right at 7 a.m. In the afternoon of the same day, when the watch indicated quarter past 4 o'clock, the true time is:** 
+<br>(a) 5 PM 
 <br>(b) 4 PM 
 <br>(c) 58(7/11)min. past 3 
 <br>(d) None Of These 
 
-**40.At what time between 7 and 8 o'clock will the hands of a clock be in the same straight line but, not together? 
-(a) 5 min. past 7 
+**40.At what time between 7 and 8 o'clock will the hands of a clock be in the same straight line but, not together?** 
+<br>(a) 5 min. past 7 
 <br>(b) 5 (2/11) min. past 7 
 <br>(c) 5 (3/11) min. past 7 
 <br>(d) 5 (5/11) min. past 7 
 
-**41. At what time between 5.30 and 6 will the hands of a clock be at right angles? 
-(a) 43 (5/11) min. past 5 
+**41. At what time between 5.30 and 6 will the hands of a clock be at right angles?** 
+<br>(a) 43 (5/11) min. past 5 
 <br>(b) 43 (7/11) min. past 5 
-<br>(c) 40 min. past 5 
+<br>(c) 40 min. past 
 <br>(d) 45 min. past 5 
 
 **42. If the minute hand of a clock has moved 300º, how many degrees has the hour hand moved? 
-(a) 25° 
+<br>(a) 25° 
 <br>(b) 150° 
 <br>(c) 50° 
 <br>(d) 300°
