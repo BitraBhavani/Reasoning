@@ -231,9 +231,9 @@ holiday?**
 <br>(d) 2400 
 
 **39. How many days are there in ‘y’ weeks and ‘y’ days?** 
-<br>(a) 7y2 
+<br>(a) 7y<sup>2</sup>
 <br>(b) 8y 
-<br>(c) 8y2 
+<br>(c) 8y<sup>2</sup> 
 <br>(d) 7y 
 
 **40. It was Friday on February 1, 2013. What was the day of the week on February 1, 2018?** 
@@ -581,6 +581,7 @@ holiday?**
 <br>3) Right, Right, Right 	
 <br>4) Left, Right, Right 	
 <br>5) Right, Right, Left 
+
 **11. A person is facing South. He turned to his right through 225° and then turned 135° to his left. In which direction is he facing now?**
 <br>1) West 	
 <br>2) East 	
@@ -617,10 +618,10 @@ holiday?**
 <br>5) 40 m towards East 
 
 **Direction (16-17):** On a playing ground A, C, E, G, and I are standing as described below facing north. 
-* i) C is 30m to the left of G. 
-* ii) A is 60m to the South of C 
-* iii) E is 20 m to the West of G 
-* iv) I is 70m to the North of A. 
+i) C is 30m to the left of G. 
+ii) A is 60m to the South of C 
+iii) E is 20 m to the West of G 
+iv) I is 70m to the North of A. 
 
 **16. Who is to the North West of ‘E’?** 
     1) A <br>
@@ -637,12 +638,7 @@ holiday?**
     5) North <br>
 
 **Direction(18-20):** Study the following information and answer the given question : 
-* Point B is 5 m to the South of point A. 
-* C is 2.5 m to the East of point B. 
-* Point D is 5 m to the South of point C. 
-* Point E is 3 m to the East of point D. 
-* Point F is 10 m to the North of point E. 
-* Point G is to the South of point E such that Points F and G form a straight line of 20 m. 
+Point B is 5 m to the South of point A. C is 2.5 m to the East of point B. Point D is 5 m to the South of point C. Point E is 3 m to the East of point D. Point F is 10 m to the North of point E. Point G is to the South of point E such that Points F and G form a straight line of 20 m. 
 
 **18. Which of the following represents the direction of point D with respect to point G ?** 
     1) South-West <br>
@@ -667,13 +663,7 @@ holiday?**
 
 **Directions (21-23):** Study the following information carefully and answer the questions given below. 
 
-There are AB axis in such a way that B is north and A is south direction. 
-There is XY axis in such a way that X is in east direction and Y is In west direction and there is DM axis in such a way that D is west direction and M is in east direction and both intersect the AB axis. 
-DM axis is intersecting the AB axis at midpoint R. 
-The DM axis is intersect at point R in such a way that BR is 10m, RA is 12m, DR is 8m, RM is 9M and the XY axis intersect at point A, the difference between them is YA is 6M, AX is 11M.
-Raghu start from Point D and walks 5m north directions and he turn to right walk 15m. 
-Kavya starts the journey from X and walks 15m west and walks 6m north direction finally taken 11m east direction. 
-Mohan starts journey from Point B and walks 4m towards east direction then after taken 12m towards south direction. 
+There are AB axis in such a way that B is north and A is south direction. There is XY axis in such a way that X is in east direction and Y is In west direction and there is DM axis in such a way that D is west direction and M is in east direction and both intersect the AB axis. DM axis is intersecting the AB axis at midpoint R. The DM axis is intersect at point R in such a way that BR is 10m, RA is 12m, DR is 8m, RM is 9M and the XY axis intersect at point A, the difference between them is YA is 6M, AX is 11M.Raghu start from Point D and walks 5m north directions and he turn to right walk 15m. Kavya starts the journey from X and walks 15m west and walks 6m north direction finally taken 11m east direction. Mohan starts journey from Point B and walks 4m towards east direction then after taken 12m towards south direction. 
 
 **21. Kavya is In which direction with respect to Raghu (consider their final point)?** 
     1) south <br>
@@ -698,11 +688,7 @@ Mohan starts journey from Point B and walks 4m towards east direction then after
 
 **Directions (24-25):** Read the given information and answer the following questions. 
 
-* Point C is 5m to the north of point E which is 8m to the east of point D. 
-* Point B is 5m to the east of point C and divides AF vertically in 3:4 ratio. 
-* The distance between B and F is double the distance between H and E. 
-* Point G is to the north of point H which is exactly between point D and point E. 
-* Point G is to the west of point A. 
+ Point C is 5m to the north of point E which is 8m to the east of point D. Point B is 5m to the east of point C and divides AF vertically in 3:4 ratio. The distance between B and F is double the distance between H and E. Point G is to the north of point H which is exactly between point D and point E. Point G is to the west of point A. 
 
 **24. Point G is in which direction with respect to point C?** 
     1) North – east <br>
@@ -742,10 +728,7 @@ Then what is the total distance between EC and DA?**
     4) 18m <br>
     5) 9m <br>
 
-**27. “X % V @ L %$ K #$ P #@ T” are related to each other such that ‘P’ is in same line with LV. 
-L and T are same line is same as K and X are in same line. 
-The distance between PL is same as VP. 
-Then L is which direction with respect to X?** 
+**27. “X % V @ L %$ K #$ P #@ T” are related to each other such that ‘P’ is in same line with LV. L and T are same line is same as K and X are in same line. The distance between PL is same as VP. Then L is which direction with respect to X?** 
     1) south-east <br>
     2) north-east <br>
     3) south-west <br>
@@ -793,11 +776,11 @@ C. 130 <br>
 D. 140 <br>
 E. None <br>
 
-|        | Carroms | Chess | Both | Total |
+|         | Carroms | Chess | Both | Total |
 |---------|---------|-------|------|-------|
-| Boys    | 70      |       |      | 110   |
-| Girls   |         |       | 0    |      |
-| Total   |         |       |      | 180   |
+| Boys    |   70    |       |      |       |
+| Girls   |         |       |      |       |
+| Total   |         |  110  |      | 180   |
 
 **Directions for questions 6 to 10:** 
 The following table gives the statistics of 180 students in a class in which each plays either caroms of chess or both. Due to 
@@ -843,9 +826,7 @@ D.  90 <br>
 E. None <br>
 
 **Directions for questions:- (11 to 14):**
-80 people in a colony were surveyed and it was found that for every 6 people who read the Hindu there are 4 people who 
-read times of India. For every 9 people who read the Hindu there are 3 people who read both of them. Further, the number of 
-people who read both of them is same as those who read neither of them. 
+80 people in a colony were surveyed and it was found that for every 6 people who read the Hindu there are 4 people who read times of India. For every 9 people who read the Hindu there are 3 people who read both of them. Further, the number of people who read both of them is same as those who read neither of them. 
 
 **11. How many people read only ‘Times of India’?** 
 A. 12 <br>
@@ -868,8 +849,7 @@ C. 33 <br>
 D. 36 <br>
 E. None <br>
 
-**14. If half of the people who read only ‘The Hindu’ stop reading it and start reading ‘Times of India’, then what is the ratio of 
-the number of people reading ‘The Hindu’ to those reading ‘Times of India’?** 
+**14. If half of the people who read only ‘The Hindu’ stop reading it and start reading ‘Times of India’, then what is the ratio of the number of people reading ‘The Hindu’ to those reading ‘Times of India’?** 
 A. 3:2 <br>
 B. 1:2 <br>
 C. 9:4 <br>
@@ -877,8 +857,7 @@ D. 2:3 <br>
 E. None <br>
 
 **Directions for Questions (15 to 18):** 
-In a colony, 54% of the residents have a bike and 20% of the residents have both a bike as well as a car. 35% of the residents 
-have only a car. 33 residents have neither a car nor a bike 
+In a colony, 54% of the residents have a bike and 20% of the residents have both a bike as well as a car. 35% of the residents have only a car. 33 residents have neither a car nor a bike 
 
 **15. How many residents are there in the colony?** 
 A. 127 <br>
@@ -909,10 +888,7 @@ D. 217 <br>
 E. None <br>
 
 **Directions for questions (19 to 22):** These questions are based on the data given below. 
-In an institute, 150 students are the members of the club A, 140 students are the members of club B and 165 students are the 
-members of the club C. 25 students are the members of both the clubs A and B. 35 students are the members of both the 
-clubs B and C and 30 students are the members of clubs A and C. 15 students are the members of all the three clubs. Each 
-student is a member of at least one of the clubs. 
+In an institute, 150 students are the members of the club A, 140 students are the members of club B and 165 students are the members of the club C. 25 students are the members of both the clubs A and B. 35 students are the members of both the clubs B and C and 30 students are the members of clubs A and C. 15 students are the members of all the three clubs. Each student is a member of at least one of the clubs. 
 
 **19. How many students are there in the institute?** 
 A. 400 <br>
@@ -943,10 +919,7 @@ D. 285 <br>
 E. None <br>
 
 **Directions for questions (23 to 26):** These questions are based on the information given below. 
-Among the members of a club XYZ, 42% are post graduates, 43% are sports men and 44% are the politicians. Among them 
-12% are both post graduates and sports men, 13% are both the sports men and the politicians, 14% are post graduates and 
-politicians and 4% are post graduates, sports men and politicians. 36 members of XYZ are neither post graduates nor 
-politicians nor sports men. 
+Among the members of a club XYZ, 42% are post graduates, 43% are sports men and 44% are the politicians. Among them 12% are both post graduates and sports men, 13% are both the sports men and the politicians, 14% are post graduates and politicians and 4% are post graduates, sports men and politicians. 36 members of XYZ are neither post graduates nor politicians nor sports men. 
 
 **23. How many members are there in the club?** 
 A. 620 <br>
@@ -976,9 +949,7 @@ C. 200 <br>
 D. 186 <br>
 E. None <br>
 
-**Directions for questions:- (27 to 31):** In a colony, it is known that three brands of mobile phones are used, namely Nokia, Sony 
-Ericsson and Motorola. 70 families use only one brand, the brand 47 families are use exactly two brands and 8 use all the three 
-brands. 
+**Directions for questions:- (27 to 31):** In a colony, it is known that three brands of mobile phones are used, namely Nokia, Sony Ericsson and Motorola. 70 families use only one brand, the brand 47 families are use exactly two brands and 8 use all the three brands. 
 
 **27. How many families are there in the colony?** 
 A. 75 <br>
@@ -1149,8 +1120,7 @@ J is the father of T. P is the brother of J. L is the mother of. V. V is the bro
 4) D is the aunt of S 
 5) M is the mother of S <br>
 
-**Directons (19-22) :** Anu, Pandu, Sukumar are children of Mr. and Mrs. Rajput. reshmi, Rohan and Prajwal are children of Mr. and Mrs. Padukone. Prajwal and Anu are a married couple with two children Jai and Veeru. Harika and Navya are 
-children of Mr. Chand Harika is married to Sukumar and their children and laxmikant, pyarelal, and Nikhita. 
+**Directons (19-22) :** Anu, Pandu, Sukumar are children of Mr. and Mrs. Rajput. reshmi, Rohan and Prajwal are children of Mr. and Mrs. Padukone. Prajwal and Anu are a married couple with two children Jai and Veeru. Harika and Navya are children of Mr. Chand Harika is married to Sukumar and their children and laxmikant, pyarelal, and Nikhita. 
 
 **19. How is Pandu related to Jai?**
 1) Cousin<br>
@@ -1180,8 +1150,7 @@ children of Mr. Chand Harika is married to Sukumar and their children and laxmik
 4) Agarwal <br>
 5) Rohan <br>
 
-**Direction (23-25):** A Familyhas six members six members A, B, C, D, E, F. There are four females two male members in the family A has married to C and had two daughters. One of the daughters of A is married and has a daughter F. B is the 
-father of F. 
+**Direction (23-25):** A Familyhas six members six members A, B, C, D, E, F. There are four females two male members in the family A has married to C and had two daughters. One of the daughters of A is married and has a daughter F. B is the father of F. 
 
 **23. How is F related to A.** 
 1) wife <br>
@@ -1205,8 +1174,8 @@ father of F.
 5) uncle <br>
 
 **Direction(26-30):** Read the information carefully and answer the given question : 
-P @ Q means P is the wife of Q 	P + Q means P is the mother of Q 
-P $ Q means P is the sister of Q 	P % Q means P is the brother of Q 
+P @ Q means P is the wife of Q 	        P + Q means P is the mother of Q 
+P $ Q means P is the sister of Q 	    P % Q means P is the brother of Q 
 P & Q means P is the husband of Q 
 
 **26. What should come in place of the question mark, to establish that P is the grandmother of T in the expression ?** 
