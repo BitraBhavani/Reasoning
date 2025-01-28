@@ -512,3 +512,111 @@ nute hand a span of 12 minutes, if initially they are at the same position?**
 <br>(b) 150° 
 <br>(c) 50° 
 <br>(d) 300°
+
+## Chapter 3: Direction Sence
+
+**1. Mr. Prasad goes first towards south then he turns right and then turns left and again turns right. In which direction he going now:**
+<br>1) East 	
+<br>2) South 	
+<br>3) West 	
+<br>4) North 	
+<br>5) North East 
+
+**2. A person starts from his house, travels a distance of 12 m westwards, then travels a distance of 10 m northwards, then a distance of 10m eastwards, then a distance of 10 m southwards, what is his distance from his house presently?** 
+<br>1) 22m 	
+<br>2) 2m 	
+<br>3) 3m 	
+<br>4) 8m 	
+<br>5) 10m 
+
+**3. A walks 10m towards East and then 10m to his right. Then every time turning to his left, he walks 5, 15 and 15m respectively. How far is he now from his starting point?** 
+<br>1) 5m 	
+<br>2) 10 m 	
+<br>3) 15 m 	
+<br>4) 20 m 	
+<br>5) 25m 
+
+**4. Starting from a point, a person walked 12 m North, turned right and walked, 10 m again turned right and walked 12 m then turned left and walked 5m. How far is he now and in which direction from the starting point?** 
+<br>1) 10 m West 	
+<br>2) 15 m East 	
+<br>3) 10 m East 	
+<br>4) 5m West 	
+<br>5) 10m North 
+
+**5. A policeman left his police post and proceeded south 4 km, On hearing a loud sound from point A. On reaching the place, he heard another sound and proceed left to reach another place C, 4 km away. In which direction, he has to move to reach his police post?** 
+<br>1) North 	
+<br>2) South 	
+<br>3) West 	
+<br>4) East 	
+<br>5) North West 
+
+**6. A started from a place after walking for 2kms, he turns to the left and after walking 1km he again turned to his left Now, he is going East ward direction. In which direction, did he originally start?** 
+<br>1) West 	
+<br>2) East 	
+<br>3) South 	
+<br>4) North 	
+<br>5) South West 
+
+**7. The college of Anwar is 20km in North-West direction from his house. The office of his father is 20km in south direction from the college. The cyber cafe is 20km towards East form the college. How for and in which direction is the cyber café from the office of his father?**
+<br>1) 20 km North-East 	
+<br>2) 20 km North-East 	
+<br>3) Cannot be determined 	
+<br>4) None of these 
+<br>5) 25 km North-West 
+
+**8. A watch shows 3.30. If the minute Hand points East, in what direction will the hour hand point?** 
+<br>1) South-East 	
+<br>2) North-East 	
+<br>3) South-West 	
+<br>4) North-West 	
+<br>5) South 
+
+**9. If the digit 9 in a clock point towards North-East, then in which direction digit ‘3’ will point?**
+<br>1) North-East 	
+<br>2) North-West 	
+<br>3) South-West 	
+<br>4) South-East 	
+<br>5) None
+
+**10. A person starts towards South direction which of the following orders of directions will lead him to East direction?** 
+<br>1) Left, Left, Left 	
+<br>2) Right, Left, Right 	
+<br>3) Right, Right, Right 	
+<br>4) Left, Right, Right 	
+<br>5) Right, Right, Left 
+**11. A person is facing South. He turned to his right through 225o and then turned 135o to his left. In which direction is he facing now?**
+<br>1) West 	
+<br>2) East 	
+<br>3) North 	
+<br>4) North East 	
+<br>5) North West
+
+**12. Early morning after Sun rise, X was standing in front of his office in such a way that his shadow was falling in front of him. He started walking straight and walked 15m. He turned to his left and walked 10m. In which direction is he with respect to the starting point?**
+<br>1) North West 	
+<br>2) North East 	
+<br>3) South West 	
+<br>4) East 	
+<br>5) South 
+
+**13. One morning A and B are standing in a lawn with their Backs towards each other. A’s shadow falls behind him. Which direction is B facing?** 
+<br>1) East 	
+<br>2) North 	
+<br>3) West 	
+<br>4) South 	
+<br>5) South East
+
+**14. A direction pole was placed at a crossing. Due to an accident the pole turned in such a manner that the pointer which was showing west started to show North. One person went in the wrong directions thinking it to be East. In what direction actually he was travelling?** 
+<br>1) North 	
+<br>2) South 	
+<br>3) West 	
+<br>4) East 	
+<br>5) South West 
+
+**15. A person starts walking from his home towards a club. He walks for 20 m towards east. He takes a 90° left turn and walks for 30 m. He then takes a 90° right turn, and walks for another 10 m. He walks for 15 m after taking a 90° left turn. Turning 90° towards his left again he walks for 30 m to reach the club. How far and in which direction is the club from his home ?**
+<br>1) 45 m towards South  
+<br>2) 40 m towards North 
+<br>3) 45 m towards North  
+<br>4) 40 m towards South  
+<br>5) 40 m towards East 
+
+
