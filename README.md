@@ -1,5 +1,5 @@
 # Reasoning 
-## Chapter 1:Calendars
+## Chapter 1: Calendars
 **1. If today is Friday, then what was the day of the week 125 days ago?** 
 <br>(a) Friday 
 <br>(b) Sunday 
@@ -1043,7 +1043,7 @@ E. None <br>
 2) cousin <br>
 3) brother <br>
 4) brother-in-law <br>
-5)father <br>
+5) father <br>
 
 **9. A is the mother of P and Q. C is the father-in-law of A. C is the father of B and D and Grand father of Q. C has only one daughter. D is the Aunt of P. How is B related to A?** 
 1) brother <br>
@@ -1182,7 +1182,7 @@ P & Q means P is the husband of Q
 P + Q & R + S ? T 
 1) Either @ or % <br>
 2) @ <br>
-3) + <br>
+3) \+ <br>
 4) & <br>
 5) Either $ or % <br>
 
@@ -1214,16 +1214,16 @@ Which among the given expressions indicate that A is the mother-in-law of D ?
 
 **30. Read the information carefully and answer the given question :** 
 
-A @ B means A is the father of B; 	A + B means A is the son of B; 
+A @ B means A is the father of B;   	A + B means A is the son of B; 
 A $ B means A is the daughter of B; 	A % B means A is the mother of B; 
-A & B means A is the husband of B 
+A & B means A is the husband of B ;
 What should come in place of the question mark, to establish that P is the motherin-law of T in the expression ? 
 P % Q + R @ S ? T 
 1) $ <br>
 2) Either & or % <br>
 3) & <br>
 4) @ <br>
-5) + <br>
+5) \+ <br>
 
 **Directions: (31-33) Study the following information carefully and answer the questions given below.** 
 A $ B - Means ‘ A is the son of B’ 	A & B - Means ‘ A is the mother of B’ 
