@@ -619,4 +619,665 @@ nute hand a span of 12 minutes, if initially they are at the same position?**
 <br>4) 40 m towards South  
 <br>5) 40 m towards East 
 
+**Direction (16-17):** On a playing ground A, C, E, G, and I are standing as described below facing north. 
+* i) C is 30m to the left of G. 
+* ii) A is 60m to the South of C 
+* iii) E is 20 m to the West of G 
+* iv) I is 70m to the North of A. 
 
+**16. Who is to the North West of ‘E’?** 
+    1) A <br>
+    2) I <br>
+    3) F <br>
+    4) G <br>
+    5) E <br>
+
+**17. In what direction was ‘G’ standing with respect of ‘A’?** 
+    1) South West <br>
+    2) South East <br>
+    3) North East <br>
+    4) North West <br>
+    5) North <br>
+
+**Direction(18-20):** Study the following information and answer the given question : 
+* Point B is 5 m to the South of point A. 
+* C is 2.5 m to the East of point B. 
+* Point D is 5 m to the South of point C. 
+* Point E is 3 m to the East of point D. 
+* Point F is 10 m to the North of point E. 
+* Point G is to the South of point E such that Points F and G form a straight line of 20 m. 
+
+**18. Which of the following represents the direction of point D with respect to point G ?** 
+    1) South-West <br>
+    2) South-East <br>
+    3) North-East <br>
+    4) North-West <br>
+    5) North <br>
+
+**19. How far is point F from point A ?** 
+    1) 2.5 meters <br>
+    2) 6.5 meters <br>
+    3) 5.5 meters <br>
+    4) 3 meters <br>
+    5) 10 meters <br>
+
+**20. If point J is 2.5 m to the East of point A. then which of the following points is closest to point J ?** 
+    1) Point C <br>
+    2) Point D <br>
+    3) Point B <br>
+    4) Point E <br>
+    5) Point F <br>
+
+**Directions (21-23):** Study the following information carefully and answer the questions given below. 
+
+There are AB axis in such a way that B is north and A is south direction. 
+There is XY axis in such a way that X is in east direction and Y is In west direction and there is DM axis in such a way that D is west direction and M is in east direction and both intersect the AB axis. 
+DM axis is intersecting the AB axis at midpoint R. 
+The DM axis is intersect at point R in such a way that BR is 10m, RA is 12m, DR is 8m, RM is 9M and the XY axis intersect at point A, the difference between them is YA is 6M, AX is 11M.
+Raghu start from Point D and walks 5m north directions and he turn to right walk 15m. 
+Kavya starts the journey from X and walks 15m west and walks 6m north direction finally taken 11m east direction. 
+Mohan starts journey from Point B and walks 4m towards east direction then after taken 12m towards south direction. 
+
+**21. Kavya is In which direction with respect to Raghu (consider their final point)?** 
+    1) south <br>
+    2) south-east <br>
+    3) North-east <br>
+    4) South-west <br>
+    5) North <br>
+
+**22. What is the total distance between Mohan and Kavya (not exact)?** 
+    1) 1m <br>
+    2) 2m <br>
+    3) 3m <br>
+    4) 4m <br>
+    5) 5m <br>
+
+**23. Mohan is which direction with respect Raghu?** 
+    1) North-west <br>
+    2) South-east <br>
+    3) South-west <br>
+    4) North-east <br>
+    5) South <br>
+
+**Directions (24-25):** Read the given information and answer the following questions. 
+
+* Point C is 5m to the north of point E which is 8m to the east of point D. 
+* Point B is 5m to the east of point C and divides AF vertically in 3:4 ratio. 
+* The distance between B and F is double the distance between H and E. 
+* Point G is to the north of point H which is exactly between point D and point E. 
+* Point G is to the west of point A. 
+
+**24. Point G is in which direction with respect to point C?** 
+    1) North – east <br>
+    2) South – west <br>
+    3) West <br>
+    4) North – west <br>
+    5) North <br>
+
+**25. If point K is exactly between point B and point F then it is in which direction with respect to point E?** 
+    1) East <br>
+    2) North – east <br>
+    3) South <br>
+    4) South – east <br>
+    5) None <br>
+
+**Direction (26-27):** In the following questions, the symbols #, &, @ and $ are used with the following meanings as illustrated below. Study the following information and answer the given questions: 
+
+*Note: The directions which are given indicates exact directions.* 
+
+* A @ B - A is East direction to B 
+* A $ B - A is west direction to B 
+* A % B - A is north direction to B 
+* A # B - A is south direction to B 
+
+* A %@B - A is south-east direction to B 
+* A #$ B - A is north-west direction to B 
+* A %$ B - A is south west direction to B 
+* A #@ B - A is north-east direction to B. 
+
+**26. “C # E @ B % D $ A” are related to each other such that C is touches the line of AD. 
+The distance between DB is either 6m or 9m and the distance between DA is either 9m or 6m and the distance between BE is either 6m or 9m and the distance between EC is either 6m or 9m.
+The distance between DB is less than the distance between EC and BE (length of segment) < DA. 
+Then what is the total distance between EC and DA?** 
+    1) 12m <br>
+    2) 6m <br>
+    3) 15m <br>
+    4) 18m <br>
+    5) 9m <br>
+
+**27. “X % V @ L %$ K #$ P #@ T” are related to each other such that ‘P’ is in same line with LV. 
+L and T are same line is same as K and X are in same line. 
+The distance between PL is same as VP. 
+Then L is which direction with respect to X?** 
+    1) south-east <br>
+    2) north-east <br>
+    3) south-west <br>
+    4) north-west <br>
+    5) either 1 or 3 <br>
+
+## Chapter 4: Logical Venn Diagrams
+
+**Directions for questions 1 to 5:** These questions are based on the following information. 
+In a class of 180 students, 110 students passed in chemistry and 120 students failed in Math, 30 students failed in both the 
+subjects. 
+
+**1. How many students in the class failed in at least one subject?** 
+A. 120 <br>
+B. 160 <br>
+C. 140 <br>
+D. 180 <br>
+E. None <br>
+
+**2. How many students failed in Chemistry only?** 
+A. 40 <br>
+B. 20 <br>
+C. 30 <br>
+D. 60 <br>
+E. None <br>
+
+**3. How many students failed in Math but passed in chemistry?** 
+ A. 60 <br>
+B. 50 <br>
+C. 80 <br>
+D. 90 <br>
+E. None <br>
+
+**4. How many students passed in at least one subject?** 
+ A. 120 <br>
+B. 150 <br>
+C. 140 <br>
+D. 170 <br>
+E. None <br>
+
+**5. How many students passed in exactly one subject?** 
+ A. 110 <br>
+B. 120 <br>
+C. 130 <br>
+D. 140 <br>
+E. None <br>
+
+|        | Carroms | Chess | Both | Total |
+|---------|---------|-------|------|-------|
+| Boys    | 70      |       |      | 110   |
+| Girls   |         |       | 0    |      |
+| Total   |         |       |      | 180   |
+
+**Directions for questions 6 to 10:** 
+The following table gives the statistics of 180 students in a class in which each plays either caroms of chess or both. Due to 
+some problem while entering the data, some vital information is lost. The following table shows the remaining data. 
+
+I. The number of boys in the class is 40 more than the number of girls. 
+II. 22 2/9 % of the total number of students  play both the games. 
+III. None of the girls plays both the games. 
+
+**6. How many girls play only chess?** 
+ A. 28 <br>
+B. 30 <br>
+C. 17 <br>
+D. 18 <br>
+E. None <br>
+
+**7. How many students play both chess and caroms?** 
+ A. 30 <br>
+B. 33 <br>
+C. 40 <br>
+D. 36 <br>
+E. None <br>
+
+**8. How many boys play only chess?** 
+ A. 40 <br>
+B. 128 <br>
+C. 32 <br>
+D. 35 <br>
+E. None <br>
+
+**9. How many students do not play both the games?** 
+ A. 120 <br>
+B. 140 <br>
+C. 150 <br>
+D. 170 <br>
+E. None <br>
+
+**10. How many students play caroms?** 
+ A. 120 <br>
+B. 140 <br>
+C. 110 <br>
+D.  90 <br>
+E. None <br>
+
+**Directions for questions:- (11 to 14):**
+80 people in a colony were surveyed and it was found that for every 6 people who read the Hindu there are 4 people who 
+read times of India. For every 9 people who read the Hindu there are 3 people who read both of them. Further, the number of 
+people who read both of them is same as those who read neither of them. 
+
+**11. How many people read only ‘Times of India’?** 
+A. 12 <br>
+B.  18 <br>
+C. 16 <br>
+D.24 <br>
+E. None <br>
+
+**12. How many people read the Hindu and ‘Times of India’?** 
+A. 12 <br>
+B. 14 <br>
+C. 15 <br>
+D. 16 <br>
+E. None <br>
+
+**13. How many people read only ‘The Hindu’?** 
+A. 28 <br>
+B. 32 <br>
+C. 33 <br>
+D. 36 <br>
+E. None <br>
+
+**14. If half of the people who read only ‘The Hindu’ stop reading it and start reading ‘Times of India’, then what is the ratio of 
+the number of people reading ‘The Hindu’ to those reading ‘Times of India’?** 
+A. 3:2 <br>
+B. 1:2 <br>
+C. 9:4 <br>
+D. 2:3 <br>
+E. None <br>
+
+**Directions for Questions (15 to 18):** 
+In a colony, 54% of the residents have a bike and 20% of the residents have both a bike as well as a car. 35% of the residents 
+have only a car. 33 residents have neither a car nor a bike 
+
+**15. How many residents are there in the colony?** 
+A. 127 <br>
+B. 360 <br>
+C. 225 <br>
+D. 300 <br>
+E. None <br>
+
+**16. How many residents have only a bike?** 
+A. 224 <br>
+B. 105 <br>
+C. 125 <br>
+D. 102 <br>
+E. None <br>
+
+**17. How many residents have at least one of a bike and a car?** 
+A. 267 <br>
+B. 263 <br>
+C. 147 <br>
+D. 224 <br>
+E. None <br>
+
+**18. How many residents have exactly one among a bike and a car?** 
+A. 207 <br>
+B. 265 <br>
+C. 147 <br>
+D. 217 <br>
+E. None <br>
+
+**Directions for questions (19 to 22):** These questions are based on the data given below. 
+In an institute, 150 students are the members of the club A, 140 students are the members of club B and 165 students are the 
+members of the club C. 25 students are the members of both the clubs A and B. 35 students are the members of both the 
+clubs B and C and 30 students are the members of clubs A and C. 15 students are the members of all the three clubs. Each 
+student is a member of at least one of the clubs. 
+
+**19. How many students are there in the institute?** 
+A. 400 <br>
+B. 380 <br>
+C. 455 <br>
+D. 310 <br>
+E. None <br>
+
+**20. How many students are not the members of club C?** 
+A. 215 <br>
+B. 200 <br>
+C. 210 <br>
+D. 310 <br>
+E. None <br>
+
+**21. How many students are the members of both the clubs A and B but not C?** 
+A. 10 <br>
+B. 20 <br>
+C. 15 <br>
+D. 30 <br>
+E. None <br>
+
+**22. How many students are the members of club A or club C?** 
+A. 310 <br>
+B. 320 <br>
+C. 325 <br>
+D. 285 <br>
+E. None <br>
+
+**Directions for questions (23 to 26):** These questions are based on the information given below. 
+Among the members of a club XYZ, 42% are post graduates, 43% are sports men and 44% are the politicians. Among them 
+12% are both post graduates and sports men, 13% are both the sports men and the politicians, 14% are post graduates and 
+politicians and 4% are post graduates, sports men and politicians. 36 members of XYZ are neither post graduates nor 
+politicians nor sports men. 
+
+**23. How many members are there in the club?** 
+A. 620 <br>
+B. 700 <br>
+C. 600 <br>
+D. 800 <br>
+E. None <br>
+
+**24. How many people come under at most one of the three categories?** 
+A. 400 <br>
+B. 414 <br>
+C. 600 <br>
+D. 564 <br>
+E. None <br>
+
+**25. How many people come under at least one of the categories?** 
+A. 400 <br>
+B. 414 <br>
+C. 564 <br>
+D. 540 <br>
+E. None <br>
+
+**26. How many people come under exactly any two of the three categories?** 
+A. 162 <br>
+B. 220 <br>
+C. 200 <br>
+D. 186 <br>
+E. None <br>
+
+**Directions for questions:- (27 to 31):** In a colony, it is known that three brands of mobile phones are used, namely Nokia, Sony 
+Ericsson and Motorola. 70 families use only one brand, the brand 47 families are use exactly two brands and 8 use all the three 
+brands. 
+
+**27. How many families are there in the colony?** 
+A. 75 <br>
+B. 100 <br>
+C. 105 <br>
+D. 125 <br>
+E. None <br>
+
+**28. How many families use at least two brands?** 
+A. 117 <br>
+B. 55 <br>
+C. 47 <br>
+D. 125 <br>
+E. None <br>
+
+**29. If 10 families stop using Nokia and start using Motorola, then what is the maximum number of families who use exactly 
+two brands?** 
+A. 57 <br>
+B. 37 <br>
+C. 47 <br>
+D. 67 <br>
+E. None <br>
+
+**30. What is the ratio of the number of families which use exactly one brand to that which use at least one brand?** 
+A. 14: 25 <br>
+B. 14: 11 <br>
+
+C. 11: 25 <br>
+D. 11: 14 <br>
+E. None <br>
+
+**31. How many families do not use all the three brands?** 
+A. 125 <br>
+B. 117 <br>
+C. 0 <br>
+D. 8 <br>
+E. None <br>
+
+## Chapter 5: Blood Relations 
+
+**1. M is the Father N. N is the sister of P. P is the husband of Q. R is the spouse of N. What is R to P?** 
+1) sister-in-law <br>
+2) Cousin <br>
+3) Brother-in-law <br>
+4) Son-in-law <br>
+5) Brother <br>
+
+**2. X and Y are two brothers. B is the brother of A but A is the mother of X. Then how is B related to Y ?** 
+1) Brother <br>
+2) Father <br>
+3) uncle <br>
+4) grand father <br>
+5) Mother <br>
+
+**3. M and N are twinss, how will be N related to M’s husband’s only son’s Grand father’s only Son-in-law’s wife?** 
+1) Sister-in-law <br>
+2) Brother <br>
+3) Father <br>
+4) sister <br>
+5) None <br>
+
+**4. X is the sister of Y. Y is the daughter of K. K is the husband of L. Then how L is related to Y ?** 
+1) mother <br>
+2) sister <br>
+3) wife <br>
+4) aunt <br>
+5) Father <br>
+
+**5. B’s father’s father is husband of C’s mother’s mother. How is B related to C ?** 
+1) sister <br>
+2) cousin <br>
+3) brother <br>
+4) wife <br>
+5) nephew <br>
+
+**6. A is B’s brother, C is A’s mother, D is C’s father, E is B’s son. How is D related to E ?** 
+1) Grand father <br>
+2) uncle <br>
+3) father-in-law <br>
+4) Great grand father  <br>
+5) Grand mother <br>
+
+**7. P is the brother of N. O is the daughter of N. R is the sister of P and Q is the brother of O.Who is the uncle of Q ?** 
+1) P <br>
+2) O <br>
+3) N <br>
+4) None <br>
+5) R <br>
+
+**8. Amit is the father of Raju & Raju is the brother of Maya. Maya is the wife of Deepak. How is Deepak related to Raju ?** 
+1) son <br>
+2) cousin <br>
+3) brother <br>
+4) brother-in-law <br>
+5)father <br>
+
+**9. A is the mother of P and Q. C is the father-in-law of A. C is the father of B and D and Grand father of Q. C has only one daughter. D is the Aunt of P. How is B related to A?** 
+1) brother <br>
+2) husband <br>
+3) cousin <br>
+4) brother-in-law <br>
+5) can’t say <br>
+
+**10. Q is the mother of M. J is the son of M. A and M are brothers of R. Q has only two sons. How is R related to J ?** 
+1) Uncle <br>
+2) Sister in law <br>
+3) Aunt <br>
+4) Brother in law <br>
+5) can’t say <br>
+
+**11. The sister of Ishan’s father is the mother of Gaurav’s brother. How is Ishan related to Gaurav ?** 
+1) Grandson <br>
+2) Nephew <br>
+3) Father <br>
+4) Cousin <br>
+5) can’t say <br>
+
+**12. Pointing to a photograph a man said “That man’s father is the only son of my father”. Whose photograph was it ?** 
+1) Father <br>
+2) His son’s <br>
+3) Uncle <br>
+4) Himself <br>
+5) Nephew <br>
+
+**13. Pointing to a photograph Shanti said “she is the mother of my brother’s uncle’s son”. How is the person in the photograph related to Shanti ?** 
+1) mother <br>
+2) aunt <br>
+3) mother-in-law <br>
+4) sister <br>
+5) Grand mother <br>
+
+**14. What is Govind’s father’s father-in-law’s son’s only sister to Govind ?** 
+1) wife <br>
+2) sister <br>
+3) mother <br>
+4) aunt <br>
+5) sister-in-law <br>
+
+**Direction(15-16) : Study the following information and answer the given question:** 
+J is the father of T. P is the brother of J. L is the mother of. V. V is the brother of T. T is mother of S L is the daughter-in-law of W. 
+
+**15. How is W related to P ?** 
+1) son <br>
+2) Aunt <br>
+3) Grandson <br>
+4) Uncle <br>
+5) can’t say <br>
+
+**16. How is J related to S ?** 
+1) Father <br>
+2) Grand-father <br>
+3) Brother <br>
+4) Uncle <br>
+5) Cousin <br>
+
+**Direction(17-18) : Study the following information and answer the given question:** 
+ A is the brother of B. B is the only daughter of M. A is the brother of D. Q is the mother of M. Q has only one son, T. R is the father of M. 
+
+**17. How is D related to T ?** 
+1) Brother in law <br>
+2) Uncle <br>
+3) Father <br>
+4) Brother <br>
+5) Nephew <br>
+
+**18. Which of the following is true if it is given that S is the son of A?** 
+1) None of the given options is true 	2) R is the paternal grandfather of S 
+3) T is the uncle of S 
+4) D is the aunt of S 
+5) M is the mother of S <br>
+
+**Directons (19-22) :** Anu, Pandu, Sukumar are children of Mr. and Mrs. Rajput. reshmi, Rohan and Prajwal are children of Mr. and Mrs. Padukone. Prajwal and Anu are a married couple with two children Jai and Veeru. Harika and Navya are 
+children of Mr. Chand Harika is married to Sukumar and their children and laxmikant, pyarelal, and Nikhita. 
+
+**19. How is Pandu related to Jai?**
+
+
+**20. Reshmi is Veeru’s** 
+1) Sister <br>
+2) Aunt <br>
+3) Niece <br>
+4) Wife <br>
+5) Brother <br>
+
+**21. Prajwal and Sukumar are related as?** 
+1) Brother <br>
+2) Brother-in-law <br>
+3) Cousins <br>
+4) Nephew-Uncle <br>
+5) Uncle <br>
+
+**22. Jai’s Surname is?** 
+1) Rajput <br>
+2) Padu Kone <br>
+3) Chand <br>
+4) Agarwal <br>
+5) Rohan <br>
+
+**Direction (23-25):** A Familyhas six members six members A, B, C, D, E, F. There are four females two male members in the family A has married to C and had two daughters. One of the daughters of A is married and has a daughter F. B is the 
+father of F. 
+
+**23. How is F related to A.** 
+1) wife <br>
+2) niece <br>
+3) grand daughter <br>
+4) daughter <br>
+5) aunt <br>
+
+**24. Which of the following are siblings?** 
+1) EC <br>
+2) BD <br>
+3) AF <br>
+4) DE <br>
+5) BC <br>
+
+**25. How is B related to A?** 
+1) son <br>
+2) son-in-law <br>
+3) brother <br>
+4) cousin <br>
+5) uncle <br>
+
+**Direction(26-30):** Read the information carefully and answer the given question : 
+P @ Q means P is the wife of Q 	P + Q means P is the mother of Q 
+P $ Q means P is the sister of Q 	P % Q means P is the brother of Q 
+P & Q means P is the husband of Q 
+
+**26. What should come in place of the question mark, to establish that P is the grandmother of T in the expression ?** 
+P + Q & R + S ? T 
+1) Either @ or % <br>
+2) @ <br>
+3) + <br>
+4) & <br>
+5) Either $ or % <br>
+
+**27. Which among the following options is true if the expression ‘L $ M + N % R + S’ is definitely true ?** 
+1) S is the daughter of N <br>
+2) S is the sister of N <br>
+3) N is the son-in-law of L <br>
+
+4) M is the grandmother of S 	5) L is the mother-in-law of R 
+
+**28. Which among the given expressions indicate that A is the uncle of D?** 
+1) A & B + C % D <br>
+2) B @ A % C $ D <br>
+3) A % B & C + D <br>
+4) A % B @ C % D <br>
+5) B + A & C $ D <br>
+
+**29. Read the information carefully and answer the given question** 
+
+P @ Q means P is the mother of Q 	P + Q means P is the wife of Q 
+P $ Q means P is the brother of Q 	P % Q means P is the father of Q 
+P & Q means P is the husband of Q 
+Which among the given expressions indicate that A is the mother-in-law of D ? 
+1) A & B @ C $ D <br>
+2) A @ B % C $ D <br>
+3) A + B % C & D <br>
+4) A % B + C % D <br>
+5) A @ B + C $ D <br>
+
+**30. Read the information carefully and answer the given question :** 
+
+A @ B means A is the father of B; 	A + B means A is the son of B; 
+A $ B means A is the daughter of B; 	A % B means A is the mother of B; 
+A & B means A is the husband of B 
+What should come in place of the question mark, to establish that P is the motherin-law of T in the expression ? 
+P % Q + R @ S ? T 
+1) $ <br>
+2) Either & or % <br>
+3) & <br>
+4) @ <br>
+5) + <br>
+
+**Directions: (31-33) Study the following information carefully and answer the questions given below.** 
+A $ B - Means ‘ A is the son of B’ 	A & B - Means ‘ A is the mother of B’ 
+A € B - Means ‘ B is the sister of of A’ 	A % B - Means ‘B is the brother of A’ 
+A &! B - Means ‘ A is the father of B’ 	A ! B - Means ‘A is the daughter of B’ 
+
+**31. Which of the following IS the correct conclusion drawn from the expression ‘ M € N ! O % Q &! R?** 
+1) R is the grandson of N <br>
+2) M is the uncle of O <br>
+3) M is the uncle of R <br>
+
+4) R is the niece or nephew of O 	5) O is sister of M 
+
+**32. Which of the following is the correct conclusion drawn from the expression ‘R $ O& T % N € Q’?** 
+1) T is the brother of Q <br>
+2) O has two sons and two daughter <br>
+3) T is the sister of R <br>
+
+4) Q is the sister of R 	5) Q is the mother of R 
+
+**33. What does the expression ‘Q& S€ T % U $ W mean?** 
+1) W is the husband of Q <br>
+2) S is the son of W <br>
+3) S is the daughter of W <br>
+
+4) W is the wife of Q 	5) U is the daughter of Q
