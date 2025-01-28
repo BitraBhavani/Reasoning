@@ -64,8 +64,7 @@
 <br>(a) Non leap year 
 <br>(b) Leap Year 
 <br>(c) Leap year, which is a century year 
-
-(d) Any century year 
+<br>(d) Any century year 
 
 **12. If a year starts with Monday, then what is the maximum possible number of Mondays in that year?** 
 <br>(a) 52 
@@ -91,8 +90,7 @@ holiday?**
 <br>(a) Yes, it is a holiday 
 <br>(b) No, it is not a holiday 
 <br>(c) Holiday, if it is a leap year 
-
-(d) Cannot be determined 
+<br>(d) Cannot be determined 
 
 **16. How many odd days are there in 100 days?** 
 <br>(a) 1 
@@ -257,7 +255,7 @@ holiday?**
 <br>(d) Wednesday
 
 
-## chapter 2: CLOCKS
+## Chapter 2: Clocks
 
 **1. How many times, will the minute hand and the hour hand of a clock point in opposite directions each other from 4:00P.M on Tuesday to 11:00 a.m on the following Thursday?** 
 <br>(a) 25 
@@ -283,13 +281,13 @@ holiday?**
 <br>(c) 10°
 <br>(d) 15°
 
-**5. At what time between 5 and 6 o’clock, will the hand s of a clock make an angle of 50 o with each other?** 
+**5. At what time between 5 and 6 o’clock, will the hand s of a clock make an angle of 50° with each other?** 
 <br>(a) 36 4/11 minutes past 5 
 <br>(b) 18 2/1 minutes past 5 
 <br>(c) 20 minutes past 5 
 <br>(d) Both (a) and (b) 
 
-**6. At what time between 6 and 7 o’clock, the angle between the hands of a clock is 70o ?** 
+**6. At what time between 6 and 7 o’clock, the angle between the hands of a clock is 70° ?** 
 <br>(a) 45 5/11 minutes past 6 
 <br>(b) 22 minutes past 6 
 <br>(c) 20 minutes past 6 
@@ -307,7 +305,7 @@ holiday?**
 <br>(c) 9:32 
 <br>(d) None of these 
 
-**9. By how many degrees will the minute hand move in the same time in which the hour hand moves by 24o ?** 
+**9. By how many degrees will the minute hand move in the same time in which the hour hand moves by 24° ?** 
 <br>(a) 220°
 <br>(b) 260°
 <br>(c) 280°
@@ -331,7 +329,7 @@ holiday?**
 <br>(c) 12:00 PM on Friday 
 <br>(d) 1:00 AM on Friday 
 
-**13. The number of minutes from 10o’ clock to now, is five times the number of minutes from now to 12 o’ clock. Find present time?** 
+**13. The number of minutes from 10 o’ clock to now, is five times the number of minutes from now to 12 o’ clock. Find present time?** 
 <br>(a) 11:40 
 <br>(b) 10:24 
 <br>(c) 10:16 
@@ -367,8 +365,7 @@ holiday?**
 <br>(c) 9:40 
 <br>(d) 9:46 
 
-**19. By how many degrees does the hour hand lag behind the mi
-nute hand a span of 12 minutes, if initially they are at the same position?** 
+**19. By how many degrees does the hour hand lag behind the minute hand a span of 12 minutes, if initially they are at the same position?** 
 <br>(a) 64°
 <br>(b) 66°
 <br>(c) 60°
@@ -380,7 +377,7 @@ nute hand a span of 12 minutes, if initially they are at the same position?**
 <br>(c) 2°
 <br>(d) 8°
 
-**21. How many degrees will the minute hand move, in the same time in which the second hand moves 540o ?**
+**21. How many degrees will the minute hand move, in the same time in which the second hand moves 540° ?**
 <br>(a) 6°
 <br>(b) 3°
 <br>(c) 12°
@@ -584,7 +581,7 @@ nute hand a span of 12 minutes, if initially they are at the same position?**
 <br>3) Right, Right, Right 	
 <br>4) Left, Right, Right 	
 <br>5) Right, Right, Left 
-**11. A person is facing South. He turned to his right through 225o and then turned 135o to his left. In which direction is he facing now?**
+**11. A person is facing South. He turned to his right through 225° and then turned 135° to his left. In which direction is he facing now?**
 <br>1) West 	
 <br>2) East 	
 <br>3) North 	
@@ -811,35 +808,35 @@ II. 22 2/9 % of the total number of students  play both the games.
 III. None of the girls plays both the games. 
 
 **6. How many girls play only chess?** 
- A. 28 <br>
+A. 28 <br>
 B. 30 <br>
 C. 17 <br>
 D. 18 <br>
 E. None <br>
 
 **7. How many students play both chess and caroms?** 
- A. 30 <br>
+A. 30 <br>
 B. 33 <br>
 C. 40 <br>
 D. 36 <br>
 E. None <br>
 
 **8. How many boys play only chess?** 
- A. 40 <br>
+A. 40 <br>
 B. 128 <br>
 C. 32 <br>
 D. 35 <br>
 E. None <br>
 
 **9. How many students do not play both the games?** 
- A. 120 <br>
+A. 120 <br>
 B. 140 <br>
 C. 150 <br>
 D. 170 <br>
 E. None <br>
 
 **10. How many students play caroms?** 
- A. 120 <br>
+A. 120 <br>
 B. 140 <br>
 C. 110 <br>
 D.  90 <br>
@@ -1008,7 +1005,6 @@ E. None <br>
 **30. What is the ratio of the number of families which use exactly one brand to that which use at least one brand?** 
 A. 14: 25 <br>
 B. 14: 11 <br>
-
 C. 11: 25 <br>
 D. 11: 14 <br>
 E. None <br>
@@ -1157,7 +1153,11 @@ J is the father of T. P is the brother of J. L is the mother of. V. V is the bro
 children of Mr. Chand Harika is married to Sukumar and their children and laxmikant, pyarelal, and Nikhita. 
 
 **19. How is Pandu related to Jai?**
-
+1) Cousin<br>
+2) Uncle<br>
+3) Brother-in-law <br>
+4) Grandfather <br>
+5) Sister <br>
 
 **20. Reshmi is Veeru’s** 
 1) Sister <br>
@@ -1221,8 +1221,8 @@ P + Q & R + S ? T
 1) S is the daughter of N <br>
 2) S is the sister of N <br>
 3) N is the son-in-law of L <br>
-
-4) M is the grandmother of S 	5) L is the mother-in-law of R 
+4) M is the grandmother of S <br>
+5) L is the mother-in-law of R <br>
 
 **28. Which among the given expressions indicate that A is the uncle of D?** 
 1) A & B + C % D <br>
@@ -1265,19 +1265,21 @@ A &! B - Means ‘ A is the father of B’ 	A ! B - Means ‘A is the daughter o
 1) R is the grandson of N <br>
 2) M is the uncle of O <br>
 3) M is the uncle of R <br>
-
-4) R is the niece or nephew of O 	5) O is sister of M 
+4) R is the niece or nephew of O <br>
+5) O is sister of M <br>
 
 **32. Which of the following is the correct conclusion drawn from the expression ‘R $ O& T % N € Q’?** 
 1) T is the brother of Q <br>
 2) O has two sons and two daughter <br>
 3) T is the sister of R <br>
-
-4) Q is the sister of R 	5) Q is the mother of R 
+4) Q is the sister of R <br>
+5) Q is the mother of R<br> 
 
 **33. What does the expression ‘Q& S€ T % U $ W mean?** 
 1) W is the husband of Q <br>
 2) S is the son of W <br>
 3) S is the daughter of W <br>
+4) W is the wife of Q <br>
+5) U is the daughter of Q<br>
 
-4) W is the wife of Q 	5) U is the daughter of Q
+
